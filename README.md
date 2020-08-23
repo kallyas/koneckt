@@ -1,0 +1,2 @@
+# koneckt
+Intranet for Schools
