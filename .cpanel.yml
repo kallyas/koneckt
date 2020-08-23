@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=//home4/jacaresi/public_html/koneckt/
+    - /bin/cp -R * $DEPLOYPATH
