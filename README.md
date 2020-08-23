@@ -26,15 +26,15 @@ Steps that tell you how to get a development envirnoment running
 ### Running the tests
 
 Use any of the load testing softwares or platforms for this
-Break down into end to end tests
 
-### Test the application with
+### Break down into end to end tests
 
+    Test the application with
     Lowest possible input
     Highest possible input
     Most common inputs
 
-And coding style tests
+### And coding style tests
 
 Steps to test in coding style for developers, programmers or white-box testers
 
