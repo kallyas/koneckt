@@ -52,7 +52,7 @@
                         $servername = "localhost";
                         $username = "jacaresi_koneckt ";
                         $password = "password";
-                        $db_name = "jacaresi_koneckt ";
+                        $db_name = "jacaresi_koneckt";
 
                         if (isset($_POST["uname"]) and isset($_POST["pwd"])) {
                             // Create connection
