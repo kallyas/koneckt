@@ -1,2 +1,2 @@
-# koneckt
-Intranet for Schools
+# Koneckt
+✨ Intranet for Schools - Private network accessible only to an organization's staff 
